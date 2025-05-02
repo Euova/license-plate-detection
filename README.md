@@ -41,7 +41,7 @@ To install the necessary dependencies, run:
 
 1. **Clone the Repository:**
 
-```python
+```bash
 git clone https://github.com/Euova/license-plate-detection.git
 ```
 
